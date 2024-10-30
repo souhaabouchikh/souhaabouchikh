@@ -1,4 +1,8 @@
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+<h1 align="center">Hi 👋, I'm souha abouchikh</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+</p>
+<h3 align="center">🎓 Software Engineering Student at EMSI Casablanca | Full Stack Developer...</h3>href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm souha abouchikh</h1>
 <h3 align="center">🎓 Software Engineering Student at EMSI Casablanca | Full Stack Developer 💻 Tech stack: Java, Python, C#, React, Angular, Spring Boot, Flutter 🌐 Experienced in both web and mobile development 📱 Passionate about creating efficient, user-friendly applications 🛠️ Currently focusing on full-stack development and cloud technologies 🔍 Open to collaborate on innovative projects</h3>
 

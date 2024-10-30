@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm souha abouchikh</h1>
 <p align="center">
-  <img  width="500" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding">
+  <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" alt="coding gif">
 </p>
 <h3 align="center">🎓 Software Engineering Student at EMSI Casablanca | Full Stack Developer...</h3>
 <h1 align="center">Hi 👋, I'm souha abouchikh</h1>

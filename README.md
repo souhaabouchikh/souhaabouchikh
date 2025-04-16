@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm souha abouchikh</h1>
 <p align="center">
   <img src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480" alt="coding gif">
 </p>

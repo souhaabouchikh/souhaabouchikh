@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <strong>Souha Abouchikh</strong></h1>
-<h3 align="center">🎓 Software Engineering Student at EMSI Casablanca | 💻 Full Stack Developer</h3>
+<h3 align="center">🎓 State-Certified Engineer in computer science and networks | 💻 Full Stack Developer</h3>
 
 <p align="center">
 🌐 Building seamless web & mobile experiences • 🚀 Driven by innovation • ☁️ Exploring Cloud & Scalable Systems  
